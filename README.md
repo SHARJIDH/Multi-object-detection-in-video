@@ -1,8 +1,9 @@
-```
+
 - Install requirements with mentioned command below.
 ```
 
 pip install -r requirements.txt
+```
 
 # for detection only
 
